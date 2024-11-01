@@ -30,11 +30,11 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="45" height="45" /><br>TypeScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" /><br>HTML5
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" /><br>CSS
     </td>
@@ -51,18 +51,7 @@
       <img src="https://codemagic.io/media/landing/press-kit/svg/star-gradient.svg" width="45" height="45" alt="Windows" /><br>Codemagic
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio" /><br>Android Studio
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VSCode" /><br>VSCode
-    </td>
-    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" /><br>Linux
-    </td>
-    <td align="center" width="100">
-      <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="45" height="45" alt="Apple" /><br>Android
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=apple" width="45" height="45" alt="Apple" /><br>Apple
