@@ -19,10 +19,10 @@
       <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45" /><br>Firebase
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="BLoC" width="45" height="50" /><br>BLoC
+      <img src="./bloc.png" alt="BLoC" width="45" height="50" /><br>BLoC
     </td>
     <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLite" /><br>SQLite
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br>SQLite
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45" /><br>JavaScript
@@ -51,7 +51,7 @@
       <img src="https://codemagic.io/media/landing/press-kit/svg/star-gradient.svg" width="45" height="45" alt="Windows" /><br>Codemagic
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" /><br>Linux
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" /><br>Linux
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=apple" width="45" height="45" alt="Apple" /><br>Apple
@@ -81,3 +81,4 @@ Here are some ideas to get you started:
 <!-- end:excluded_rules_table -->
 
 [tuna_baner_path]: ./makjac_banner.png
+[bloc_logo]: ./bloc.png
