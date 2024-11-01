@@ -1,5 +1,8 @@
 ![tuna_baner][tuna_baner_path]
 
+![Github Views][profile_views_badge]
+
+
 <h4>- 📫 Connect with me on <a href="https://www.linkedin.com/in/maksymilian-jackowski/">LinkedIn</a></h4>
 
 <h4>- 📧 Email: <a href="mailto:maks.jackowski@proton.me">maks.jackowski@proton.me</a></h4>
@@ -81,4 +84,5 @@ Here are some ideas to get you started:
 <!-- end:excluded_rules_table -->
 
 [tuna_baner_path]: ./makjac_banner.png
+[profile_views_badge]: https://github-views.deno.dev/api/badge/makjac/?style=classic&label=Profile+views
 [bloc_logo]: ./bloc.png
