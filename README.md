@@ -1,13 +1,8 @@
-<h2 align="center"><samp>Hi 👋 I'm Maks J</samp></h2>
-<h3 align="center"><samp>A software developer from Poland</samp> </h3>
-
 ![tuna_baner][tuna_baner_path]
 
 <samp>- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/maksymilian-jackowski/)</samp>
 
 <samp>- 📧 Email: maks.jackowski@proton.me</samp>
-
-<samp>- 📱 Flutter Enthusiast: Crafting high-performance apps with Dart & Flutter 💙</samp>
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 
