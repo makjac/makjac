@@ -1,8 +1,8 @@
 ![tuna_baner][tuna_baner_path]
 
-<samp>- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/maksymilian-jackowski/)</samp>
+<h3>- 📫 Connect with me on <a href="https://www.linkedin.com/in/maksymilian-jackowski/">LinkedIn</a></h3>
 
-<samp>- 📧 Email: maks.jackowski@proton.me</samp>
+<h3>- 📧 Email: <a href="mailto:maks.jackowski@proton.me">maks.jackowski@proton.me</a></h3>
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 
