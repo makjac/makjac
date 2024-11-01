@@ -1,10 +1,10 @@
 ![tuna_baner][tuna_baner_path]
 
-<h3>- 📫 Connect with me on <a href="https://www.linkedin.com/in/maksymilian-jackowski/">LinkedIn</a></h3>
+<h4>- 📫 Connect with me on <a href="https://www.linkedin.com/in/maksymilian-jackowski/">LinkedIn</a></h4>
 
-<h3>- 📧 Email: <a href="mailto:maks.jackowski@proton.me">maks.jackowski@proton.me</a></h3>
+<h4>- 📧 Email: <a href="mailto:maks.jackowski@proton.me">maks.jackowski@proton.me</a></h4>
 
-<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
+<h2 align="center"><samp>💻 My Favorite Languages and Tools</samp></h2>
 
 <div style="display: flex; align-items: center; justify-content: center;">
 <table align="center">
