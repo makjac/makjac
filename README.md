@@ -24,14 +24,14 @@
     <td align="center" width="100">
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLite" /><br>SQLite
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45" /><br>JavaScript
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="45" height="45" /><br>TypeScript
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" /><br>HTML5
     </td>
@@ -41,8 +41,6 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" /><br>Vue
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /><br>Postman
     </td>
@@ -55,11 +53,11 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio" /><br>Android Studio
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VSCode" /><br>VSCode
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" /><br>Linux
     </td>
